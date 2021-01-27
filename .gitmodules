@@ -1,0 +1,2 @@
+[submodule "backend"]
+	url = git@github.com:syphax-bouazzouni/qcm-app-backend.git
