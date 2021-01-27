@@ -1,2 +1,6 @@
 [submodule "backend"]
-	url = git@github.com:syphax-bouazzouni/qcm-app-backend.git
+	path = backend
+	url = https://github.com/syphax-bouazzouni/qcm-app-backend
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/syphax-bouazzouni/qcm-app-front
